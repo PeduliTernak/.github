@@ -16,7 +16,7 @@ The Peduli Ternak app is a "Disease Detection in Cattle" application that addres
 
 ## Repositories
 
-- Machine Learning
+- [Machine Learning](https://github.com/PeduliTernak/ML-Model)
 - [Mobile Development](https://github.com/PeduliTernak/peduli-ternak)
 - [Cloud Computing - Node.js](https://github.com/PeduliTernak/CloudComputing-Node-API)
 - [Cloud Computing - Flask](https://github.com/PeduliTernak/CloudComputing-Flask-API)
